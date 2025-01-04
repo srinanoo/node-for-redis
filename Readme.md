@@ -1,5 +1,7 @@
 Redis Caching in Node/Express
 
+- Node Redis Documentation - https://redis.js.org/
+
 - Install Redis in OS
     - Windows - not supported, need to use WSL2 in Windows
 	    - https://docs.microsoft.com/en-us/windows/wsl/install
