@@ -16,6 +16,13 @@ Redis Caching in Node/Express
             - sudo systemctl enable redis-server
             - sudo systemctl start redis-server
 
+            or
+
+            - sudo service redis-server start
+            - sudo service redis-server stop
+            - sudo service redis-server restart
+            - sudo service redis-server stop
+
 - Setup Node/Express and Redis
     - npm init -y
     - npm i express redis
