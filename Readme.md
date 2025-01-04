@@ -1,5 +1,8 @@
 Redis Caching in Node/Express
 
+- Redis Documentation - https://redis.io/
+- Redis Cache - Get Started - https://redis.io/docs/latest/get-started/
+
 - Node Redis Documentation - https://redis.js.org/
 
 - Install Redis in OS
