@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Name1",
+        "role": "Backend Developer"
+    },
+    {
+        "name": "Name2",
+        "role": "Frontend Developer"
+    },
+    {
+        "name": "Name3",
+        "role": "Fullstack Developer"
+    }
+]
